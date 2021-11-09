@@ -20,4 +20,4 @@
 
 Among these features there are two geospatial specific features namely eastings and northings of accidents.Given the easting and northing of a location, we can calculate the latitude and longitude of the location and vice versa.
 
-All of the above features are making very interesting and comprehensive  for analysis and research.
+All of the above features are making very interesting and comprehensive  for analysis and research
